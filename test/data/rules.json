@@ -1,0 +1,414 @@
+[
+    {
+        "from": "anamiv@com.gov",
+        "action": "from anamiv@com.gov"
+    },
+    {
+        "from": "osi*@jamhu.edu",
+        "to": "samto*@topahba.gov",
+        "action": "from osi*@jamhu.edu to samto*@topahba.gov"
+    },
+    {
+        "from": "n*@ukco.edu",
+        "to": "?upt*a@bupdav.edu",
+        "action": "from n*@ukco.edu to ?upt*a@bupdav.edu"
+    },
+    {
+        "from": "*@ha.edu",
+        "action": "tag ha.edu"
+    },
+    {
+        "to": "s*c@hiwivi.gov",
+        "action": "to s*c@hiwivi.gov"
+    },
+    {
+        "to": "c*@jamhu.edu",
+        "action": "to c*@jamhu.edu"
+    },
+    {
+        "from": "gi*@ukco.edu",
+        "action": "from gi*@ukco.edu"
+    },
+    {
+        "from": "*@ug.gov",
+        "to": "ruhmez*e@topahba.gov",
+        "action": "from *@ug.gov to ruhmez*e@topahba.gov"
+    },
+    {
+        "from": "samtowov@topahba.gov",
+        "action": "from samtowov@topahba.gov"
+    },
+    {
+        "from": "?*@ukco.edu",
+        "to": "z*m?cguj@bupdav.edu",
+        "action": "from ?*@ukco.edu to z*m?cguj@bupdav.edu"
+    },
+    {
+        "to": "*@ha.edu",
+        "action": "to *@ha.edu"
+    },
+    {
+        "to": "*@bupdav.edu",
+        "action": "to *@bupdav.edu"
+    },
+    {
+        "from": "finwevduz@hiwivi.gov",
+        "action": "from finwevduz@hiwivi.gov"
+    },
+    {
+        "from": "*@bupdav.edu",
+        "action": "from *@bupdav.edu"
+    },
+    {
+        "from": "apudus@ug.gov",
+        "action": "from apudus@ug.gov"
+    },
+    {
+        "to": "*@ha.edu",
+        "action": "to *@ha.edu"
+    },
+    {
+        "from": "bikubno@ukco.edu",
+        "action": "from bikubno@ukco.edu"
+    },
+    {
+        "to": "awt*@bupdav.edu",
+        "action": "to awt*@bupdav.edu"
+    },
+    {
+        "from": "l*devet@ug.gov",
+        "action": "from l*devet@ug.gov"
+    },
+    {
+        "from": "p*@ukco.edu",
+        "to": "n*?atac@bupdav.edu",
+        "action": "from p*@ukco.edu to n*?atac@bupdav.edu"
+    },
+    {
+        "to": "*@ha.edu",
+        "action": "to *@ha.edu"
+    },
+    {
+        "from": "jogod@jamhu.edu",
+        "action": "from jogod@jamhu.edu"
+    },
+    {
+        "from": "mu*@topahba.gov",
+        "to": "k*g@ug.gov",
+        "action": "from mu*@topahba.gov to k*g@ug.gov"
+    },
+    {
+        "from": "*@hizjuvet.com",
+        "action": "from *@hizjuvet.com"
+    },
+    {
+        "from": "rizep@hiwivi.gov",
+        "action": "from rizep@hiwivi.gov"
+    },
+    {
+        "to": "j*gi@hizjuvet.com",
+        "action": "to j*gi@hizjuvet.com"
+    },
+    {
+        "from": "gu@hizjuvet.com",
+        "action": "from gu@hizjuvet.com"
+    },
+    {
+        "from": "bi@ha.edu",
+        "action": "from bi@ha.edu"
+    },
+    {
+        "to": "j*@jamhu.edu",
+        "action": "to j*@jamhu.edu"
+    },
+    {
+        "from": "leugdej@hizjuvet.com",
+        "action": "from leugdej@hizjuvet.com"
+    },
+    {
+        "from": "g*@ug.gov",
+        "action": "from g*@ug.gov"
+    },
+    {
+        "from": "gizuli@ukco.edu",
+        "action": "from gizuli@ukco.edu"
+    },
+    {
+        "from": "*@hiwivi.gov",
+        "action": "tag hiwivi.gov"
+    },
+    {
+        "from": "ver@osu.org",
+        "action": "from ver@osu.org"
+    },
+    {
+        "from": "widgo@osu.org",
+        "action": "from widgo@osu.org"
+    },
+    {
+        "from": "hagulha@com.gov",
+        "action": "from hagulha@com.gov"
+    },
+    {
+        "from": "*o@hizjuvet.com",
+        "action": "from *o@hizjuvet.com"
+    },
+    {
+        "from": "amcami@hiwivi.gov",
+        "action": "from amcami@hiwivi.gov"
+    },
+    {
+        "to": "*@ug.gov",
+        "action": "to *@ug.gov"
+    },
+    {
+        "from": "widgo@osu.org",
+        "action": "from widgo@osu.org"
+    },
+    {
+        "from": "jogde@ug.gov",
+        "action": "from jogde@ug.gov"
+    },
+    {
+        "from": "ro@osu.org",
+        "action": "from ro@osu.org"
+    },
+    {
+        "from": "ce@hiwivi.gov",
+        "action": "from ce@hiwivi.gov"
+    },
+    {
+        "from": "*@jamhu.edu",
+        "action": "tag jamhu.edu"
+    },
+    {
+        "from": "fuj@bupdav.edu",
+        "action": "from fuj@bupdav.edu"
+    },
+    {
+        "from": "jogde@ug.gov",
+        "action": "from jogde@ug.gov"
+    },
+    {
+        "from": "*@bupdav.edu",
+        "action": "from *@bupdav.edu"
+    },
+    {
+        "from": "*@hizjuvet.com",
+        "action": "tag hizjuvet.com"
+    },
+    {
+        "to": "*@bupdav.edu",
+        "action": "to *@bupdav.edu"
+    },
+    {
+        "from": "*@osu.org",
+        "to": "*i@jamhu.edu",
+        "action": "from *@osu.org to *i@jamhu.edu"
+    },
+    {
+        "to": "l?de*@ug.gov",
+        "action": "to l?de*@ug.gov"
+    },
+    {
+        "from": "haca@ha.edu",
+        "action": "from haca@ha.edu"
+    },
+    {
+        "from": "widgo@osu.org",
+        "action": "from widgo@osu.org"
+    },
+    {
+        "from": "osiwi@jamhu.edu",
+        "action": "from osiwi@jamhu.edu"
+    },
+    {
+        "from": "*?m@hiwivi.gov",
+        "to": "*?@bupdav.edu",
+        "action": "from *?m@hiwivi.gov to *?@bupdav.edu"
+    },
+    {
+        "from": "awtij@bupdav.edu",
+        "action": "from awtij@bupdav.edu"
+    },
+    {
+        "from": "ha*@ha.edu",
+        "action": "from ha*@ha.edu"
+    },
+    {
+        "from": "zomucguj@bupdav.edu",
+        "action": "from zomucguj@bupdav.edu"
+    },
+    {
+        "from": "ibci@bupdav.edu",
+        "action": "from ibci@bupdav.edu"
+    },
+    {
+        "from": "amcami@hiwivi.gov",
+        "action": "from amcami@hiwivi.gov"
+    },
+    {
+        "from": "ho@hizjuvet.com",
+        "action": "from ho@hizjuvet.com"
+    },
+    {
+        "from": "norewan@ukco.edu",
+        "action": "from norewan@ukco.edu"
+    },
+    {
+        "from": "*@bupdav.edu",
+        "to": "no*@topahba.gov",
+        "action": "from *@bupdav.edu to no*@topahba.gov"
+    },
+    {
+        "from": "uz@ug.gov",
+        "action": "from uz@ug.gov"
+    },
+    {
+        "from": "*ena@jamhu.edu",
+        "action": "from *ena@jamhu.edu"
+    },
+    {
+        "from": "mug@topahba.gov",
+        "action": "from mug@topahba.gov"
+    },
+    {
+        "from": "*@osu.org",
+        "to": "*@ukco.edu",
+        "action": "from *@osu.org to *@ukco.edu"
+    },
+    {
+        "from": "ketem@jamhu.edu",
+        "action": "from ketem@jamhu.edu"
+    },
+    {
+        "from": "biwarfe@ukco.edu",
+        "action": "from biwarfe@ukco.edu"
+    },
+    {
+        "from": "vagena@com.gov",
+        "action": "from vagena@com.gov"
+    },
+    {
+        "from": "bin@ha.edu",
+        "action": "from bin@ha.edu"
+    },
+    {
+        "from": "samtowov@topahba.gov",
+        "action": "from samtowov@topahba.gov"
+    },
+    {
+        "to": "*a@bupdav.edu",
+        "action": "to *a@bupdav.edu"
+    },
+    {
+        "from": "zomucguj@bupdav.edu",
+        "action": "from zomucguj@bupdav.edu"
+    },
+    {
+        "from": "kitborag@ug.gov",
+        "action": "from kitborag@ug.gov"
+    },
+    {
+        "from": "jatpo@ug.gov",
+        "action": "from jatpo@ug.gov"
+    },
+    {
+        "from": "*?w@hizjuvet.com",
+        "action": "from *?w@hizjuvet.com"
+    },
+    {
+        "from": "awtij@bupdav.edu",
+        "action": "from awtij@bupdav.edu"
+    },
+    {
+        "from": "ga@ug.gov",
+        "action": "from ga@ug.gov"
+    },
+    {
+        "to": "borra*@hiwivi.gov",
+        "action": "to borra*@hiwivi.gov"
+    },
+    {
+        "from": "noawatac@bupdav.edu",
+        "action": "from noawatac@bupdav.edu"
+    },
+    {
+        "from": "fi*wevduz@hiwivi.gov",
+        "action": "from fi*wevduz@hiwivi.gov"
+    },
+    {
+        "to": "g*@ug.gov",
+        "action": "to g*@ug.gov"
+    },
+    {
+        "from": "v*gen?@com.gov",
+        "action": "from v*gen?@com.gov"
+    },
+    {
+        "from": "*@com.gov",
+        "action": "tag com.gov"
+    },
+    {
+        "from": "*cguj@bupdav.edu",
+        "to": "?*@com.gov",
+        "action": "from *cguj@bupdav.edu to ?*@com.gov"
+    },
+    {
+        "from": "*@hiwivi.gov",
+        "action": "from *@hiwivi.gov"
+    },
+    {
+        "from": "*@hiwivi.gov",
+        "action": "from *@hiwivi.gov"
+    },
+    {
+        "from": "amcami@hiwivi.gov",
+        "action": "from amcami@hiwivi.gov"
+    },
+    {
+        "from": "*@ug.gov",
+        "to": "*@com.gov",
+        "action": "from *@ug.gov to *@com.gov"
+    },
+    {
+        "from": "*@hiwivi.gov",
+        "action": "from *@hiwivi.gov"
+    },
+    {
+        "from": "zanbipa@ha.edu",
+        "action": "from zanbipa@ha.edu"
+    },
+    {
+        "to": "*@bupdav.edu",
+        "action": "to *@bupdav.edu"
+    },
+    {
+        "from": "v*v@ukco.edu",
+        "action": "from v*v@ukco.edu"
+    },
+    {
+        "from": "jogod@jamhu.edu",
+        "action": "from jogod@jamhu.edu"
+    },
+    {
+        "from": "i*c?@bupdav.edu",
+        "action": "from i*c?@bupdav.edu"
+    },
+    {
+        "from": "lugitir@osu.org",
+        "action": "from lugitir@osu.org"
+    },
+    {
+        "to": "?*@bupdav.edu",
+        "action": "to ?*@bupdav.edu"
+    },
+    {
+        "from": "*@osu.org",
+        "action": "tag osu.org"
+    },
+    {
+        "from": "amcami@hiwivi.gov",
+        "action": "from amcami@hiwivi.gov"
+    }
+]
